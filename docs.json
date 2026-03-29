@@ -28,6 +28,12 @@
         "version": "V1.02",
         "tabs": [
           {
+            "tab": "Untitled Tab",
+            "pages": [
+              "page"
+            ]
+          },
+          {
             "tab": "Guides",
             "groups": [
               {
@@ -82,12 +88,6 @@
                   "api-reference/endpoint/webhook"
                 ]
               }
-            ]
-          },
-          {
-            "tab": "Untitled Tab",
-            "pages": [
-              "page"
             ]
           }
         ]
